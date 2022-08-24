@@ -1,0 +1,64 @@
+{
+    "studentResult": [
+        {
+            "id": 1,
+            "name": "david",
+            "subject": "Mathematics",
+            "score": 74
+        },
+        {
+            "id": 2,
+            "name": "yinka",
+            "subject": "Mathematics",
+            "score": 54
+        },
+        {
+            "id": 3,
+            "name": "Jason",
+            "subject": "Mathematics",
+            "score": 60
+        },
+        {
+            "id": 4,
+            "name": "James",
+            "subject": "Mathematics",
+            "score": 75
+        },
+        {
+            "id": 5,
+            "name": "Gbotemi",
+            "subject": "Mathematics",
+            "score": 84
+        },
+        {
+            "id": 6,
+            "name": "Solomon",
+            "subject": "Mathematics",
+            "score": 40
+        },
+        {
+            "id": 7,
+            "name": "dayo",
+            "subject": "Mathematics",
+            "score": 63
+        },
+        {
+            "id": 8,
+            "name": "Folarin",
+            "subject": "Mathematics",
+            "score": 50
+        },
+        {
+            "id": 9,
+            "name": "Shorunke",
+            "subject": "Mathematics",
+            "score": 90
+        },
+        {
+            "id": 10,
+            "name": "Solutions",
+            "subject": "Mathematics",
+            "score": 95
+        }
+    ]
+}
