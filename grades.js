@@ -1,4 +1,4 @@
-const studentsResults = [{
+const studentsResults = [
         {
             id: 'Tobi',
             Mathematics: 45,
@@ -36,7 +36,3 @@ const studentsResults = [{
             ComputerScience: 43
         },
 ]
-
-studentsResults.map((element, ) => {
-    console.log(element, element[i])
-})
